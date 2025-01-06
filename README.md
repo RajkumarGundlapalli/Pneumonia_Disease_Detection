@@ -92,3 +92,6 @@ After the model is trained and the app is running, upload a chest X-ray image to
 This is the interface when we run the Streamlit Code 
 ![image](https://github.com/user-attachments/assets/05166ceb-23ea-4095-a364-e24bbec31361)
 
+## Data Set
+Download the DataSet using the following link
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia 
