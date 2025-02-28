@@ -1,9 +1,10 @@
-Here’s a complete `README.md` for your GitHub repository:
 
-```markdown
 # Pneumonia Disease Detection using VGG16
 
-This repository contains a machine learning model built using the VGG16 architecture to detect pneumonia from chest X-ray images. The model is trained on a dataset of labeled chest X-rays and uses transfer learning from the pre-trained VGG16 network to perform binary classification (pneumonia or normal). The project also includes a web interface using **Streamlit** to predict pneumonia from user-uploaded X-ray images.
+This repository contains a machine learning model built using the VGG16 architecture to detect pneumonia from chest X-ray images.
+The model is trained on a dataset of labeled chest X-rays and uses transfer learning from the pre-trained VGG16 network to perform
+binary classification (pneumonia or normal).The project also includes a web interface using **Streamlit** to predict pneumonia from
+user uploaded X-ray images.
 
 ## Project Structure
 - `chest_xray/`: Contains the dataset for training, validation, and testing.
